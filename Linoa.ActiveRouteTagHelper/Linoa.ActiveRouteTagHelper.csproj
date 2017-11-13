@@ -10,6 +10,7 @@
     <RepositoryUrl>https://github.com/linoafr/ActiveRouteTagHelper</RepositoryUrl>
     <PackageTags>TagHelper aspnetcore aspnetcoremvc</PackageTags>
     <RepositoryType>git</RepositoryType>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
