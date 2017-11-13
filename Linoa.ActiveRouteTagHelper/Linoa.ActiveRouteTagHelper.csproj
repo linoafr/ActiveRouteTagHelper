@@ -5,6 +5,11 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company>Linoa</Company>
     <Authors>Sébastien Jousse</Authors>
+    <PackageProjectUrl>https://github.com/linoafr/ActiveRouteTagHelper</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/linoafr/ActiveRouteTagHelper/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/linoafr/ActiveRouteTagHelper</RepositoryUrl>
+    <PackageTags>TagHelper aspnetcore aspnetcoremvc</PackageTags>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
